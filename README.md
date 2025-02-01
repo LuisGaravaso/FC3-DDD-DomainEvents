@@ -16,7 +16,8 @@ Cloning the Repository
 
 To get started, clone the repository and navigate to the project directory:
 ```sh
-git clone https://github.com/LuisGaravaso/DDD-DomainEvents.git
+git clone https://github.com/LuisGaravaso/FC3-DDD-DomainEvents.git
+cd FC3-DDD-DomainEvents
 ```
 
 ### Prerequisites
